@@ -8,11 +8,11 @@ Install __pigz__(recommended) to reduce time in backup and restore
 
 #WGET
 
-wget https://raw.githubusercontent.com/MRxTools87/Termux-Backup/refs/heads/main/bcop && chmod u+x terbr && mv terbr $PREFIX/bin/
+wget https://raw.githubusercontent.com/MRxTools87/Termux-Backup/refs/heads/main/bcop && chmod u+x bcop && mv bcop $PREFIX/bin/
 
 #CURL
 
-curl -O https://raw.githubusercontent.com/MRxTools87/Termux-Backup/refs/heads/main/bcop && chmod u+x terbr && mv terbr $PREFIX/bin/
+curl -O https://raw.githubusercontent.com/MRxTools87/Termux-Backup/refs/heads/main/bcop && chmod u+x bcop && mv bcop $PREFIX/bin/
 
 
 #USAGE
